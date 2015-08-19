@@ -1,0 +1,26 @@
+.content {
+	margin-top: 50px;
+}
+.undecorated-link:hover {
+	text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	display: none !important;
+}
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}
+
+header img{
+	width: 50px;
+}
+.navbar-brand{
+    float: left;
+    height: 50px;
+    padding: 10px 10px;
+    font-size: 25px;
+    line-height: 29px;
+}
